@@ -4,7 +4,5 @@ A hands-on guide to modding Warhammer 40,000: Space Marine 2 with Saber's offici
 
 ### 📖 [Read it in the Wiki](https://github.com/BOTProT800/Space-Marine-2-Modding/wiki)
 
-- [Setting up the environment](https://github.com/BOTProT800/Space-Marine-2-Modding/wiki/Montar-el-entorno)
-- [How the files are organized](https://github.com/BOTProT800/Space-Marine-2-Modding/wiki/Organizacion-de-archivos)
-
-> The guide itself is written in Spanish.
+- [Setting up the environment](https://github.com/BOTProT800/Space-Marine-2-Modding/wiki/Setting-up-the-environment)
+- [How the files are organized](https://github.com/BOTProT800/Space-Marine-2-Modding/wiki/How-the-files-are-organized)
